@@ -6,7 +6,7 @@ Website giới thiệu bánh ngọt và phụ kiện sinh nhật, được xây 
 * **Học phần:** Thiết kế Web
 * **Khoa:** Công nghệ Thông tin — Trường Đại học Sư phạm TP. Hồ Chí Minh
 * **Mã lớp:** 2411COMP180201
-* **Giảng viên hướng dẫn:** ThS. Lương Trần Hy Hiển
+* **Giảng viên hướng dẫn:** ThS. Lương Trần Hy Hiến
 
 ## Tính năng
 * Hiển thị danh sách sản phẩm gồm bánh ngọt và phụ kiện.
